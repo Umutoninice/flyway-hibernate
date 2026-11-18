@@ -1,0 +1,14 @@
+package com.example.FlywayDemo2.Model;
+
+public enum ProductCategory {
+    ELECTRONICS,
+    CLOTHING,
+    HOME_AND_KITCHEN,
+    BEAUTY_AND_PERSONAL_CARE,
+    BOOKS_AND_STATIONERY,
+    SPORTS_AND_OUTDOORS,
+    HEALTH_AND_WELLNESS,
+    TOYS_AND_GAMES,
+    GROCERIES_AND_FOOD,
+    JEWELRY_AND_ACCESSORIES
+}
